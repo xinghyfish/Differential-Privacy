@@ -7,3 +7,10 @@ This repository is some notes of **DP( Differential Privacy )**, and this is my 
 Compared to other repositories on GitHub, this one focuses on the concepts of DP and the process of put the mathematical theory into practice. I will try my best to make it easy to understand by beginner. If it brings you convenience, you can give it a **star**:star: and share it with others.
 
 The rest content will be updated continuously. 
+
+# About author
+
+- Institution: Soochow University, School of Computer Science and Technology
+
+- email: xinghy.fish@qq.com / hyxing@stu.suda.edu.cn
+- Bilibili: 不会冲浪的查理
